@@ -1,0 +1,1 @@
+export { Theorem } from "./Theorem";
